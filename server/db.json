@@ -1,0 +1,53 @@
+{
+  "monstruos": [
+    {
+      "id": 2,
+      "nombre": "Vladimir, el Vampiro Voraz",
+      "tipo": "Vampiro",
+      "alias": "Vlad",
+      "defensa": "crucifijo",
+      "miedo": "95",
+      "enemigos": [
+        "heroes",
+        "humanos",
+        "demonios",
+        "niños"
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Luna, la Bruja de las Tinieblas",
+      "tipo": "Bruja",
+      "alias": "Luna",
+      "defensa": "pocion",
+      "miedo": "75",
+      "enemigos": [
+        "niños"
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Garra Nocturna, el Hombre Lobo",
+      "tipo": "Hombre Lobo",
+      "alias": "Garra",
+      "defensa": "plata",
+      "miedo": "85",
+      "enemigos": [
+        "heroes",
+        "humanos",
+        "niños"
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "aa",
+      "tipo": "Esqueleto",
+      "alias": "aa",
+      "defensa": "pocion",
+      "miedo": "50",
+      "enemigos": [
+        "heroes"
+      ]
+    }
+  ]
+}
